@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","13745","","chromium","Sat Aug 02 03:52:02 BST 2025","passed","Sat Aug 02 03:52:16 BST 2025","Registration for online training","tests\features\registration.feature.spec.js","",""
+"","11254","","firefox","Sat Aug 02 03:52:02 BST 2025","passed","Sat Aug 02 03:52:13 BST 2025","Registration for online training","tests\features\registration.feature.spec.js","",""
+"","10942","","webkit","Sat Aug 02 03:52:02 BST 2025","passed","Sat Aug 02 03:52:13 BST 2025","Registration for online training","tests\features\registration.feature.spec.js","",""

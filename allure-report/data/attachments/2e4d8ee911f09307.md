@@ -1,0 +1,211 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#content"
+- banner:
+  - link:
+    - /url: https://blueskycitadel.com/
+  - heading [level=4]
+  - paragraph
+  - navigation:
+    - list:
+      - listitem:
+        - link "Home":
+          - /url: https://blueskycitadel.com/
+        - list:
+          - listitem:
+            - link "About us":
+              - /url: https://blueskycitadel.com/about-us-2/
+            - list:
+              - listitem:
+                - link "Awards":
+                  - /url: "#"
+              - listitem:
+                - link "Meet Us":
+                  - /url: https://blueskycitadel.com/meet-us/
+              - listitem:
+                - link "Partners":
+                  - /url: "#"
+                - list:
+                  - listitem:
+                    - link "Bosun Arebuwa Foundation Incubator":
+                      - /url: https://blueskycitadel.com/baf/
+      - listitem:
+        - link "Courses":
+          - /url: https://blueskycitadel.com/courses/
+        - list:
+          - listitem:
+            - link "Apply for Internship":
+              - /url: https://courses.prepmajor.com
+      - listitem:
+        - link "Certifications":
+          - /url: "#"
+        - list:
+          - listitem:
+            - link "QA Scrum Certification":
+              - /url: https://certifications.prepmajor.com/scrum/sdc/
+          - listitem:
+            - link "BA Scrum Certification":
+              - /url: https://certifications.prepmajor.com/scrum/spoc/
+          - listitem:
+            - link "SM Scrum Certification":
+              - /url: https://certifications.prepmajor.com/scrum/smc/
+      - listitem:
+        - link "Gallery":
+          - /url: "#gallery"
+        - list:
+          - listitem:
+            - link "Winter 2023":
+              - /url: https://blueskycitadel.com/winter-2023/
+          - listitem:
+            - link "Winter 2022":
+              - /url: https://blueskycitadel.com/winter-graduation/
+          - listitem:
+            - link "Summer 2022":
+              - /url: https://blueskycitadel.com/summer-graduation-2/
+- paragraph: You can set this subtitle from the customizer.
+- link "Action button 2":
+  - /url: ""
+- text: Automation Form Name *
+- textbox "Name * First"
+- text: First
+- textbox "Last"
+- text: Last Email *
+- textbox "Email *"
+- text: "Height:"
+- textbox "Height:"
+- text: Are you vegan/ Vegetarian?
+- combobox "Are you vegan/ Vegetarian?":
+  - option "Yes" [selected]
+  - option "No"
+- text: Where are you located?
+- textbox "Where are you located?"
+- text: How long have been searching for Career change select as applied?
+- combobox "How long have been searching for Career change select as applied?":
+  - option "Less than 6 months" [selected]
+  - option "6 months – 1 year"
+  - option "1 year- 2 years"
+  - option "2 years – 3 years"
+  - option "3 years – 5 years"
+- text: "Describe your favourite hobbies and interests:"
+- textbox "Describe your favourite hobbies and interests:"
+- text: Select your choice course
+- list:
+  - listitem:
+    - radio "Business Analyst"
+    - text: Business Analyst
+  - listitem:
+    - radio "Scrum Master"
+    - text: Scrum Master
+  - listitem:
+    - radio "Software Testing"
+    - text: Software Testing
+  - listitem:
+    - radio "Data Analysis"
+    - text: Data Analysis
+  - listitem:
+    - radio "SAP"
+    - text: SAP
+  - listitem:
+    - radio "Agile Delivery Manager"
+    - text: Agile Delivery Manager
+  - listitem:
+    - radio "Project Manager"
+    - text: Project Manager
+- text: What's your career progression
+- list:
+  - listitem:
+    - checkbox "Business Analyst"
+    - text: Business Analyst
+  - listitem:
+    - checkbox "Developer"
+    - text: Developer
+  - listitem:
+    - checkbox "Software Testing"
+    - text: Software Testing
+  - listitem:
+    - checkbox "Scrum Master"
+    - text: Scrum Master
+  - listitem:
+    - checkbox "SAP"
+    - text: SAP
+  - listitem:
+    - checkbox "Project Manager"
+    - text: Project Manager
+- text: What day works best for you? Select all that apply
+- list:
+  - listitem:
+    - checkbox "Monday"
+    - text: Monday
+  - listitem:
+    - checkbox "Tuesday"
+    - text: Tuesday
+  - listitem:
+    - checkbox "Wednesday"
+    - text: Wednesday
+  - listitem:
+    - checkbox "Thursday"
+    - text: Thursday
+  - listitem:
+    - checkbox "Friday"
+    - text: Friday
+  - listitem:
+    - checkbox "Saturday"
+    - text: Saturday
+- text: What Time works best for you
+- list:
+  - listitem:
+    - radio "Morning"
+    - text: Morning
+  - listitem:
+    - radio "Evening"
+    - text: Evening
+- text: What's your favourite music
+- list:
+  - listitem:
+    - radio "Afro Beats"
+    - text: Afro Beats
+  - listitem:
+    - radio "Apala"
+    - text: Apala
+  - listitem:
+    - radio "Jazz"
+    - text: Jazz
+- button "Submit"
+- paragraph
+- paragraph
+- heading "address" [level=6]
+- paragraph: 193 Crayford Road
+- paragraph: DA1 4ES
+- paragraph: London
+- link:
+  - /url: "https://www.facebook.com/BlueSkyCitadelPage "
+  - img
+- link:
+  - /url: "https://twitter.com/BlueskyCitadel "
+  - img
+- link:
+  - /url: "https://www.youtube.com/channel/UCGobnhMroJc7vgc2l2UuYOw "
+  - img
+- link:
+  - /url: "https://www.linkedin.com/company/blueskycitadel/ "
+  - img
+- link:
+  - /url: "https://www.tiktok.com/@blueskycitadel/now/invite?_t=8ZeQXMh1MMn "
+  - img
+- heading "Email us @" [level=6]
+- paragraph: admin@blueskycitadel.com
+- link "Privacy Policy":
+  - /url: https://www.freeprivacypolicy.com/live/d0c051ea-5e19-4c9c-931c-b10e0e1725b4
+  - heading "Privacy Policy" [level=6]
+- link "Contact Us":
+  - /url: https://blueskycitadel.com/contact-us/
+- link:
+  - /url: "#page-top"
+  - img
+- text: © 2025 BlueSky Citadel. Created for free using WordPress and
+- link "Colibri":
+  - /url: https://colibriwp.com
+- dialog "Cookie Notice"
+```
