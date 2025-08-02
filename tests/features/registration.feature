@@ -1,4 +1,4 @@
-@only
+
 Feature: Registration for online training
   Scenario:
     Given i navigate to the website "https://blueskycitadel.com/automation-form/"
